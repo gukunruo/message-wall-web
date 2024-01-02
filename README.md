@@ -1,29 +1,36 @@
 # web
 
 ## Project setup
+
 ```
 pnpm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 pnpm run serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 pnpm run build
 ```
 
 ### Lints and fixes files
+
 ```
 pnpm run lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## 目录结构
+
+```
 ├── mock/                # mock模拟数据
 ├── node_modules/        # 项目依赖的 node 模块
 ├── public/              # 公共资源目录
@@ -48,3 +55,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ├── pnpm-lock.yaml       # 包版本锁文件
 ├── README.md            # 项目说明文件
 └── vue.config.js        # vue-cli配置文件
+```
